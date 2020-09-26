@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "ano": "1813"
+    },
+    {
+        "titulo": "O morro dos ventos Uivantes",
+        "autor": "Emily Bronte",
+        "ano": "1847"
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": "1899"
+    },
+    {
+        "titulo": "A culpa é das Estrelas",
+        "autor": "John Green",
+        "ano": "2012"
+    },
+    {
+        "titulo": "Os Miseraveis",
+        "autor": "Victor Hugo",
+        "ano": "1862"
+    },
+    {
+        "titulo": "PS, Eu te amo",
+        "autor": "Cecilia Ahern",
+        "ano": "2003"
+    },
+    {
+        "titulo": "Um dia",
+        "autor": "David Nicholls",
+        "ano": "2009"
+    },
+    {
+        "titulo": "A menina que Roubava Livros",
+        "autor": "Markus Zusak",
+        "ano": "2005"
+    },
+    {
+        "titulo": "O pequeno Príncipe",
+        "autor": "Antonie de Saint-Exupéry",
+        "ano": "1943"
+    },
+    {
+        "titulo": "Como eu era antes de você",
+        "autor": "Jojo Moyes",
+        "ano": "2012"
+    }
+]
